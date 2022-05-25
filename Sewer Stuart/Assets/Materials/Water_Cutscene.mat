@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9190895086651991591
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water_Cutscene
+  m_Shader: {fileID: -6465566751694194690, guid: 547e540b5275646488986f1da5016238, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_17718f6de7354bae8d42fe17720bf94f:
+        m_Texture: {fileID: 2800000, guid: fba061129937a854babbccaddf27dcc5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2420a780c2fe4433a45795f4505f576c:
+        m_Texture: {fileID: 2800000, guid: 37d8be07863d89a47847dbaef17076d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1620ac1d67b5495dbcfbd688037527b3: 0.1
+    - Vector1_20f6157b71cd411dbce97aa273be2530: 2
+    - Vector1_21fcc9c059214204bda9a50384499e6c: 0.05
+    - Vector1_33d23246697f441d95e5e326d3b2f3f1: 0.3
+    - Vector1_56bc329c44d9410a88c0d68287c3b196: 0.2
+    - Vector1_63e0ab742df24798a863b3ea25e90afb: 0.4
+    - Vector1_644c7dae87fa4b909785beb1a07aa54b: 0.8
+    - Vector1_879f23912ce34c8e93503dc3d5c6cd1f: 0.5
+    - Vector1_8e4231b0c5fd4dc9bd852ba23cca96df: 0.1
+    - Vector1_b805cb5e20d544de9285d860e4cef806: 0.5
+    - Vector1_ced6bf86f47842f08260b83b03d78f2e: 1.5
+    - Vector1_e3c8aeb2de38420eb3105bd908c001fd: 0.98
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_128c495d46804f10a54d700afa4e71d7: {r: 0.156, g: 0.13051055, b: 0.050855998, a: 1}
+    - Color_5ee5d0423524455f8176786a0d3738f3: {r: 0.128, g: 0.11756231, b: 0.047232006, a: 0.05882353}
+    - Color_bef2b826fe1f41729c6d513025c390e8: {r: 0.574, g: 0.505448, b: 0.334068, a: 0.72156864}
+    - Vector2_25c50e66d71a4251b492d4bd4f308ebd: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_a1b1dd7007bd4ceb88facb0aeaa88d17: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _WaterDirection: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
